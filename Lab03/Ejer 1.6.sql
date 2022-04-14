@@ -1,4 +1,4 @@
--- ejer 6
+-- ejer 6 (EXCEPT no valido en MySQL)
 
 SELECT PERSONAL.Dni FROM PERSONAL
 EXCEPT
